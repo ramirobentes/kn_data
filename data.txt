@@ -58,3 +58,9 @@
   description: possessions
   rows: 570551
   cols: 32
+- path: pbp-poss24
+  name: pbp-poss24
+  type: table
+  description: possessions
+  rows: 563742
+  cols: 32
