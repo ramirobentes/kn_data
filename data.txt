@@ -10,3 +10,9 @@
   description: possessions
   rows: 486087
   cols: 32
+- path: pbp-poss16
+  name: pbp-poss16
+  type: table
+  description: possessions
+  rows: 491036
+  cols: 32
