@@ -40,3 +40,9 @@
   description: possessions
   rows: 500399
   cols: 32
+- path: pbp-poss21
+  name: pbp-poss21
+  type: table
+  description: possessions
+  rows: 495779
+  cols: 32
