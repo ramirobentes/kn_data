@@ -1,1 +1,6 @@
-[]
+- path: pbp-poss14
+  name: pbp-poss14
+  type: table
+  description: possessions
+  rows: 487207
+  cols: 32
