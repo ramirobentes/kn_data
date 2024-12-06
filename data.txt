@@ -4,3 +4,9 @@
   description: possessions
   rows: 487207
   cols: 32
+- path: pbp-poss15
+  name: pbp-poss15
+  type: table
+  description: possessions
+  rows: 486087
+  cols: 32
