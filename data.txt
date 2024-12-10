@@ -33,7 +33,7 @@
   type: table
   description: possessions
   rows: 578523
-  cols: 32
+  cols: 33
 - path: pbp-poss20
   name: pbp-poss20
   type: table
