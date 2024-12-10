@@ -45,7 +45,7 @@
   type: table
   description: possessions
   rows: 495779
-  cols: 32
+  cols: 33
 - path: pbp-poss22
   name: pbp-poss22
   type: table
