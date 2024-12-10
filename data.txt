@@ -63,4 +63,4 @@
   type: table
   description: possessions
   rows: 563742
-  cols: 32
+  cols: 33
