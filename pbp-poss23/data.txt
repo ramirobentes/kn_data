@@ -1,5 +1,5 @@
 path:
-- https://api.github.com/repos/ramirobentes/kn_data/releases/assets/212419772
+- https://api.github.com/repos/ramirobentes/kn_data/releases/assets/213777025
 - data.rds
 type: table
 description: possessions
@@ -40,5 +40,5 @@ columns:
   names_lineup_def: character
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/kn_data/releases/assets/212419772: data.csv
+  https://api.github.com/repos/ramirobentes/kn_data/releases/assets/213777025: data.csv
   data.rds: data.rds
