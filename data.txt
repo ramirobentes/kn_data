@@ -136,3 +136,9 @@
   description: shots
   rows: 68934
   cols: 24
+- path: pbp-poss25
+  name: pbp-poss25
+  type: table
+  description: possessions
+  rows: 182121
+  cols: 33
