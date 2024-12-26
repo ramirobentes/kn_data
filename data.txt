@@ -178,3 +178,9 @@
   description: possessions
   rows: 468167
   cols: 33
+- path: pbp-poss03
+  name: pbp-poss03
+  type: table
+  description: possessions
+  rows: 470890
+  cols: 33
