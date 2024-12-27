@@ -244,3 +244,9 @@
   description: possessions
   rows: 476780
   cols: 33
+- path: shots97
+  name: shots97
+  type: table
+  description: shots
+  rows: 188589
+  cols: 24
