@@ -280,3 +280,9 @@
   description: shots
   rows: 193251
   cols: 24
+- path: shots04
+  name: shots04
+  type: table
+  description: shots
+  rows: 189803
+  cols: 24
