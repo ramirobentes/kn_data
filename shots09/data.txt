@@ -1,0 +1,35 @@
+path:
+- https://api.github.com/repos/ramirobentes/kn_data/releases/assets/216216133
+- data.rds
+type: table
+description: shots
+rows: 200966
+cols: 24
+columns:
+  GRID_TYPE: character
+  GAME_ID: numeric
+  GAME_EVENT_ID: numeric
+  PLAYER_ID: numeric
+  PLAYER_NAME: character
+  TEAM_ID: numeric
+  TEAM_NAME: character
+  PERIOD: numeric
+  MINUTES_REMAINING: numeric
+  SECONDS_REMAINING: numeric
+  EVENT_TYPE: character
+  ACTION_TYPE: character
+  SHOT_TYPE: character
+  SHOT_ZONE_BASIC: character
+  SHOT_ZONE_AREA: character
+  SHOT_ZONE_RANGE: character
+  SHOT_DISTANCE: numeric
+  LOC_X: numeric
+  LOC_Y: numeric
+  SHOT_ATTEMPTED_FLAG: numeric
+  SHOT_MADE_FLAG: numeric
+  GAME_DATE: numeric
+  HTM: character
+  VTM: character
+filenames:
+  https://api.github.com/repos/ramirobentes/kn_data/releases/assets/216216133: data.csv
+  data.rds: data.rds
