@@ -310,3 +310,9 @@
   description: shots
   rows: 200501
   cols: 24
+- path: shots08
+  name: shots08
+  type: table
+  description: shots
+  rows: 199030
+  cols: 24
