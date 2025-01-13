@@ -346,3 +346,9 @@
   description: shots
   rows: 204126
   cols: 24
+- path: pbp-poss-pst25
+  name: pbp-poss-pst25
+  type: table
+  description: poss with position lineup
+  rows: 267035
+  cols: 44
