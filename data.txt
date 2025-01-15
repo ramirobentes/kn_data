@@ -27,7 +27,7 @@
   type: table
   description: possessions
   rows: 551141
-  cols: 33
+  cols: 43
 - path: pbp-poss19
   name: pbp-poss19
   type: table
