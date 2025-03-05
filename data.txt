@@ -20,7 +20,7 @@
   name: pbp-poss17
   type: table
   description: possessions
-  rows: 545461
+  rows: 545462
   cols: 43
 - path: pbp-poss18
   name: pbp-poss18
