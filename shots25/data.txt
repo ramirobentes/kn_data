@@ -1,9 +1,9 @@
 path:
-- https://api.github.com/repos/ramirobentes/kn_data/releases/assets/239606430
+- https://api.github.com/repos/ramirobentes/kn_data/releases/assets/240041083
 - data.rds
 type: table
 description: shots
-rows: 185985
+rows: 188586
 cols: 24
 columns:
   GRID_TYPE: character
@@ -31,5 +31,5 @@ columns:
   HTM: character
   VTM: character
 filenames:
-  https://api.github.com/repos/ramirobentes/kn_data/releases/assets/239606430: data.csv
+  https://api.github.com/repos/ramirobentes/kn_data/releases/assets/240041083: data.csv
   data.rds: data.rds
