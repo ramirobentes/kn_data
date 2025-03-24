@@ -140,7 +140,7 @@
   name: pbp-poss25
   type: table
   description: possessions
-  rows: 491971
+  rows: 495676
   cols: 43
 - path: pbp-poss97
   name: pbp-poss97
