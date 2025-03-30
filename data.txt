@@ -134,7 +134,7 @@
   name: shots25
   type: table
   description: shots
-  rows: 195283
+  rows: 197754
   cols: 24
 - path: pbp-poss25
   name: pbp-poss25
