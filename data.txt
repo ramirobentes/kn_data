@@ -352,3 +352,9 @@
   description: poss with position lineup
   rows: 267035
   cols: 44
+- path: pbp-poss-playoffs25
+  name: pbp-poss-playoffs25
+  type: table
+  description: possessions
+  rows: 5784
+  cols: 43
