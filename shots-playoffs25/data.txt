@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: shots
-rows: 3216
+rows: 5091
 cols: 24
 columns:
   GRID_TYPE: character

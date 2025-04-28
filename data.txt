@@ -362,5 +362,5 @@
   name: shots-playoffs25
   type: table
   description: shots
-  rows: 3216
+  rows: 5091
   cols: 24
