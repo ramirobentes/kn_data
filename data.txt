@@ -448,3 +448,9 @@
   description: possessions
   rows: 32085
   cols: 43
+- path: pbp-poss-playoffs11
+  name: pbp-poss-playoffs11
+  type: table
+  description: possessions
+  rows: 31164
+  cols: 43
