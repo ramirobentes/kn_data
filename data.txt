@@ -362,7 +362,7 @@
   name: shots-playoffs25
   type: table
   description: shots
-  rows: 12356
+  rows: 12535
   cols: 24
 - path: pbp-poss-playoffs97
   name: pbp-poss-playoffs97
