@@ -1,10 +1,10 @@
 path:
-- https://api.github.com/repos/ramirobentes/kn_data/releases/assets/314796117
+- https://api.github.com/repos/ramirobentes/kn_data/releases/assets/319300245
 - data.rds
 type: table
 description: possessions
-rows: 61932
-cols: 43
+rows: 101553
+cols: 42
 columns:
   game_date: Date
   game_id: character
@@ -14,14 +14,13 @@ columns:
   clock: character
   secs_game: numeric
   event_num: numeric
-  msg_type: numeric
-  act_type: numeric
+  action_type: character
+  sub_type: character
   team_abb: character
   poss_team: character
   poss_home: numeric
   poss_away: numeric
   description: character
-  reb_type: character
   and1: numeric
   total_fta: numeric
   team_ft: character
@@ -50,5 +49,5 @@ columns:
   id_player_def_pf: numeric
   id_player_def_c: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/kn_data/releases/assets/314796117: data.csv
+  https://api.github.com/repos/ramirobentes/kn_data/releases/assets/319300245: data.csv
   data.rds: data.rds
