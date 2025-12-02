@@ -537,7 +537,7 @@
   type: table
   description: possessions
   rows: 137634
-  cols: 43
+  cols: 44
 - path: shots26
   name: shots26
   type: table
