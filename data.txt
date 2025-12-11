@@ -542,5 +542,5 @@
   name: shots26
   type: table
   description: shots
-  rows: 63927
+  rows: 64271
   cols: 24
