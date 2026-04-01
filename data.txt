@@ -536,7 +536,7 @@
   name: pbp-poss26
   type: table
   description: possessions
-  rows: 494337
+  rows: 497353
   cols: 44
 - path: shots26
   name: shots26
