@@ -550,3 +550,9 @@
   description: possessions
   rows: 6002
   cols: 44
+- path: shots-playoffs26
+  name: shots-playoffs26
+  type: table
+  description: shots
+  rows: 2375
+  cols: 24
