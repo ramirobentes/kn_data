@@ -544,3 +544,9 @@
   description: shots
   rows: 219160
   cols: 24
+- path: pbp-poss-playoffs26
+  name: pbp-poss-playoffs26
+  type: table
+  description: possessions
+  rows: 6002
+  cols: 44
