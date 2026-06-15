@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: possessions
-rows: 36282
+rows: 37160
 cols: 44
 columns:
   game_date: Date
